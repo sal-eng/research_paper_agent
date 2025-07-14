@@ -1,6 +1,5 @@
 # Research Paper QnA Bot
 
-## Project Title and Description
 
 This project implements a **Retrieval Augmented Generation (RAG) Agentic system** designed to answer user queries by leveraging a **knowledge base stored in LanceDB**. It uses an AI agent to generate a relevant query for the knowledge base, retrieves similar documents, and then uses another AI agent to synthesize an answer based on the retrieved context. This approach ensures more accurate and contextually rich responses compared to standalone generative models.
 
